@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1616360628522.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3613759597",
+    "id" : "F663F2F0",
+    "lastKnownWriteTime" : 1616371093,
+    "last_content_update" : 1616371093017,
+    "path" : "C:/Users/Rolando/Workspace/Machine Learning/Projects/CNN_dogs_and_cats_classifier/R/Using_transfer_learning.R",
+    "project_path" : "Using_transfer_learning.R",
+    "properties" : {
+        "cursorPosition" : "83,54",
+        "scrollLine" : "71",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
